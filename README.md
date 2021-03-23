@@ -8,3 +8,6 @@ About me
 📫 How to reach me: 
 -   Telegram: @Kwister 
 -   eMail: tagirza@yandex.ru
+
+![java](https://img.shields.io/badge/java-%3E%3D8-orange)
+![maven](https://img.shields.io/badge/maven-3-red)
